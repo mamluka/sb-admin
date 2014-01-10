@@ -1,0 +1,19 @@
+{
+  "name": "sb-admin",
+  "version": "0.1.0",
+  "authors": [
+    "david <david.mazvovsky@gmail.com>"
+  ],
+  "description": "Start bootstrap admin template",
+  "main": "css/sb-admin.css",
+  "license": "MIT",
+  "homepage": "http://startbootstrap.com/",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
